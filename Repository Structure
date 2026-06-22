@@ -1,0 +1,10 @@
+Operating-System-Practicals/
+│
+├── shared_memory.c
+├── mutex_demo.c
+├── producer_consumer.c
+├── semaphore_demo.c
+│
+├── README.md
+│
+└── screenshots/
